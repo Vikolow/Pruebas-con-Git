@@ -21,4 +21,4 @@ img.save('image_as_qr.png')
 #save_dir = '/path/to/your/directory/'
 
 # Save the image with the full path
-#img.save(os.path.join(save_dir, 'google_qr.p
+#img.save(os.path.join(save_dir, 'your_image.png')
