@@ -17,6 +17,8 @@ img.save('image_as_qr.png')
 
 ###### To change the directory where the QR code is located#######
 
+# import os required
+
 ## Specify the directory where you want to save the image
 #save_dir = '/path/to/your/directory/'
 
