@@ -24,3 +24,5 @@ img.save('image_as_qr.png')
 
 # Save the image with the full path
 #img.save(os.path.join(save_dir, 'your_image.png')
+
+Azan putero
